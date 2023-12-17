@@ -1,16 +1,31 @@
 # noteapp
 
-A new Flutter project.
+# Flutter Full Stack Note App
+<p align="center">
+  <img src="app-screenshot.png" alt="App Screenshot" width="400"/>
+</p>
+Welcome to the Flutter Full Stack Note App! This comprehensive note-taking application is designed with a full stack approach, utilizing the Flutter framework for the front end, and Express, TypeScript, MongoDB, Bloc Cubit State Management, and Shared Preferences for the back end. Users can seamlessly manage their notes, update their profiles, and perform various actions to organize their thoughts effectively.
 
-## Getting Started
+Features
+User Authentication: Securely sign up and sign in to access your notes. Your account is protected with industry-standard authentication mechanisms.
 
-This project is a starting point for a Flutter application.
+Profile Management: Users can easily update their profiles, ensuring that their information is always accurate.
 
-A few resources to get you started if this is your first Flutter project:
+Note Operations: Create, edit, and delete notes effortlessly. Keep your thoughts organized with the ability to perform a range of actions on your notes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bloc Cubit State Management: Utilizing Bloc Cubit architecture for efficient state management, ensuring a smooth user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Shared Preferences: Local data persistence using Shared Preferences for seamless access to user preferences and data.
+
+Technologies Used
+Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+Express.js: A fast, unopinionated, minimalist web framework for Node.js.
+
+TypeScript: A superset of JavaScript that adds static typing to the language.
+
+MongoDB: A NoSQL database that provides high performance, high availability, and easy scalability.
+
+Bloc Cubit: A powerful state management library for Flutter applications.
+
+Shared Preferences: A package to persistently store simple data in Flutter applications.
